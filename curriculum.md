@@ -37,10 +37,16 @@
 
 ## Curriculum
 
-### 1st Year - Linux
-
+### 1st Year - Linux, Python, Cloud
+#### Linux
 Course | Resource | Prerequisites | Duration | Effort | Other | Study Plan
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco | optional course | 70 hours | 4 weeks | N/A | -
 [NDG Linux I](https://www.netacad.com/courses/os-it/ndg-linux-I) | Cisco | Linux Essentials optional | 70 hours | 5-6 weeks | purpose - help to pass the LPIC-1 101 exam | -
 [NDG Linux II](https://www.netacad.com/courses/os-it/ndg-linux-II) | Cisco | NDG Linux I or passing LPIC-1 101 exam | 70 hours | 5-6 weeks | purpose - help to pass the LPIC-1 102 exam and earn the LPIC-1 certification | -
+
+#### Python
+
+Course | Resource | Prerequisites | Duration | Effort | Other | Study Plan
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Python Programming](https://app.datacamp.com/learn/skill-tracks/python-programming) | DataCamp | N/A | 24 hours | Unknown | track includes 6 "mini" courses and a skill assessment towards the end | -
