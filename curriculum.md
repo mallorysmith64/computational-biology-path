@@ -50,3 +50,4 @@ Course | Resource | Prerequisites | Duration | Effort | Other | Study Plan
 Course | Resource | Prerequisites | Duration | Effort | Other | Study Plan
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Python Programming](https://app.datacamp.com/learn/skill-tracks/python-programming) | DataCamp | N/A | 24 hours | Unknown | track includes 6 "mini" courses and a skill assessment towards the end | -
+[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1/home/welcome) | Coursera | N/A | 35-50 hours | Unknown | part 1 of 7 in the fundamentals of computing specialization | -
